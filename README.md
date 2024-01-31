@@ -10,5 +10,5 @@
 Cshaffer129/Cshaffer129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-!Ricky!](/"![image]"(https://github.com/Cshaffer129/Cshaffer129/assets/158075269/f5b5d876-b3aa-416d-9e31-3d1d87098a50)
+!Ricky!](/"![(https://github.com/Cshaffer129/Cshaffer129/assets/158075269/f5b5d876-b3aa-416d-9e31-3d1d87098a50)"(https://github.com/Cshaffer129/Cshaffer129/assets/158075269/f5b5d876-b3aa-416d-9e31-3d1d87098a50)
  "Rick"
