@@ -10,3 +10,4 @@
 Cshaffer129/Cshaffer129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+!Ricky!](/"https://camo.githubusercontent.com/4110751d04a689bbe2b4ec649e45a0470e961b77a7d9b580e85ea2b8f6a6ddd5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f567577396d35775876694649512f736f757263652e676966 "Rick"
