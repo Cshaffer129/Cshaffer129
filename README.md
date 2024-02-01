@@ -6,3 +6,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a diverse taste in music
 
+![](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
